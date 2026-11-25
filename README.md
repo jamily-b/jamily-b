@@ -1,5 +1,11 @@
-## Hi there 👋
+## 🎓 Jamily Gonçalves
 
+<div style="display inline_block"><br>
+  <img align="center" alt="Jamily-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css/css-original.svg">
+  <img align="center" alt="Jamily-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css/css-original.svg">
+</div>
+  
+          
 <!--
 **jamily-b/jamily-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
