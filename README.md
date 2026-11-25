@@ -2,7 +2,8 @@
 <p align="center">
   💻 Estudante de Informática para Internet
 </p>
-
+<h2> Sobre mim </h2>
+<p> 📚 Atualmente estou no 2º ano do curso Informática para Internet na Etec de Santa Isabel.</p>
 
 <h2> Ferramentas </h2>  
 <div style="display inline_block"><br>
