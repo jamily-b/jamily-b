@@ -3,7 +3,8 @@
   💻 Estudante de Informática para Internet
 </p>
 <h2> Sobre mim </h2>
-<p> 📚 Atualmente estou no 2º ano do curso Informática para Internet na Etec de Santa Isabel.</p>
+<p> 📚 Atualmente estou no 2º ano do Ensino Médio cursando Informática para Internet na Etec de Santa Isabel.</p>]
+<
 
 <h2> Ferramentas </h2>  
 <div style="display inline_block"><br>
@@ -11,6 +12,7 @@
   <img align="center" alt="Jamily-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="Jamily-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Jamily-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="Jamily-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
              
 </div>
   
