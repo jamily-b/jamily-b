@@ -1,4 +1,4 @@
-<h1 align="center">🎓 Jamily Gonçalves</h1>
+<h1 align="center">🎓 Jamily Bizarria Gonçalves </h1>
 <p align="center">
   Estudante de Informática para Internet
 </p>
