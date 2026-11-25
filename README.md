@@ -1,16 +1,16 @@
 <h1 align="center">🎓 Jamily Bizarria Gonçalves </h1>
 <p align="center">
-  Estudante de Informática para Internet
+  💻 Estudante de Informática para Internet
 </p>
 
-<h2> Ferramentas </h2>  
+
+<h2> Linguagens que conheço </h2>  
 <div style="display inline_block"><br>
   <img align="center" alt="Jamily-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css/css-original.svg">
   <img align="center" alt="Jamily-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="Jamily-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Jamily-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-          
-          
+             
 </div>
   
           
