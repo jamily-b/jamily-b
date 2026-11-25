@@ -12,9 +12,11 @@
   <img align="center" alt="Jamily-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Jamily-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="Jamily-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-             
 </div>
-  
+
+  <div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhjOWxoeTB2NHdrc3hpcXB4MzBnbnRrbGE0a3J1dTUxemxraGU0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3diu2dFNpV8AnozJ3V/giphy.gif" width="100%" />
+</div>
           
 <!--
 **jamily-b/jamily-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
