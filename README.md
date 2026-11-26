@@ -6,7 +6,7 @@
 <p> Atualmente estou no 2º ano do Ensino Médio cursando Informática para Internet na ETEC de Santa Isabel.</p>
 <p> Tenho interesse pela área de tecnologia e desenvolvimento web, buscando aprender e aprimorar meus conhecimentos em programação. Durante o curso, venho desenvolvendo projetos acadêmicos que me permitem colocar em prática o que aprendo em sala de aula.</p>
 
-<h2> Ferramentas </h2><br>
+<h2> Ferramentas </h2>
 <div align="center">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -14,8 +14,8 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
-
-  <div align="center">
+<br>
+<div align="center">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhqZmZjbnR4eXR5a2dtdDZpMGgyazhjcWcxNmNjNTd2MmZ0d2JiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3diu2dFNpV8AnozJ3V/giphy.gif" width:"100%" />
   </div>
           
