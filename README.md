@@ -3,8 +3,8 @@
   💻 Estudante de Informática para Internet
 </p>
 <h2> Sobre mim </h2>
-<p> Atualmente estou no 2º ano do Ensino Médio cursando Informática para Internet na ETEC de Santa Isabel.</p>
-<p> Tenho interesse pela área de tecnologia e desenvolvimento web, buscando aprender e aprimorar meus conhecimentos em programação. Durante o curso, venho desenvolvendo projetos acadêmicos que me permitem colocar em prática o que aprendo em sala de aula.</p>
+<p> ╰┈➤ Atualmente estou no 2º ano do Ensino Médio cursando Informática para Internet na ETEC de Santa Isabel.</p>
+<p>╰┈➤ Tenho interesse pela área de tecnologia e desenvolvimento web, buscando aprender e aprimorar meus conhecimentos em programação. Durante o curso, venho desenvolvendo projetos acadêmicos que me permitem colocar em prática o que aprendo em sala de aula.</p>
 
 <h2> Ferramentas </h2>
 <div align="center">
