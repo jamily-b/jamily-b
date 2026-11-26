@@ -4,6 +4,7 @@
 </p>
 <h2> Sobre mim </h2>
 <p> Atualmente estou no 2º ano do Ensino Médio cursando Informática para Internet na ETEC de Santa Isabel.</p>
+<p> Tenho interesse pela área de tecnologia e desenvolvimento web, buscando aprender e aprimorar meus conhecimentos em programação. Durante o curso, venho desenvolvendo projetos acadêmicos que me permitem colocar em prática o que aprendo em sala de aula.</p>
 
 <h2> Ferramentas </h2>  
 <div style="display inline_block"><br>
@@ -12,6 +13,15 @@
   <img align="center" alt="Jamily-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Jamily-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="Jamily-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+</div>
+<h2 align="center">💻 Tecnologias e ferramentas</h2>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css/css-original.svg" height="40" alt="CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="PHP">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React">
 </div>
 
   <div align="center">
