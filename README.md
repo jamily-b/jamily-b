@@ -6,15 +6,7 @@
 <p> Atualmente estou no 2º ano do Ensino Médio cursando Informática para Internet na ETEC de Santa Isabel.</p>
 <p> Tenho interesse pela área de tecnologia e desenvolvimento web, buscando aprender e aprimorar meus conhecimentos em programação. Durante o curso, venho desenvolvendo projetos acadêmicos que me permitem colocar em prática o que aprendo em sala de aula.</p>
 
-<h2> Ferramentas </h2>  
-<div style="display inline_block"><br>
-  <img align="center" alt="Jamily-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css/css-original.svg">
-  <img align="center" alt="Jamily-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="Jamily-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Jamily-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="Jamily-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-</div>
-
+<h2> Ferramentas </h2><br>
 <div align="center">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
