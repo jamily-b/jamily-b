@@ -3,7 +3,7 @@
   💻 Estudante de Informática para Internet
 </p>
 <h2> Sobre mim </h2>
-<p> 📚 Atualmente estou no 2º ano do Ensino Médio cursando Informática para Internet na ETEC de Santa Isabel.</p>
+<p> Atualmente estou no 2º ano do Ensino Médio cursando Informática para Internet na ETEC de Santa Isabel.</p>
 
 <h2> Ferramentas </h2>  
 <div style="display inline_block"><br>
